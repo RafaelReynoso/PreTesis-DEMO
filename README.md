@@ -13,7 +13,10 @@ Demo de la PreTesis "Aplicación Web de Gestión de Almacén y Ventas para la em
 ```bash
 git clone https://github.com/Tecsupsoft/2023-2-pretesis-2023-2-pretesis-grupo-13.git
 ```
-
+**o**
+```bash
+git clone https://github.com/RafaelReynoso/PreTesis-DEMO.git
+```
 **2. Construir la aplicacion**
 
 ```bash
