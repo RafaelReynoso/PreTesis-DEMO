@@ -43,3 +43,5 @@ También puede ejecutar este proyecto utilizando Docker. Siga estos pasos:
     ```bash
     docker pull rafaelreynoso/demo-pretesis
     ```
+## Tambien desplegado en Render:
+- https://pretesis-demo.onrender.com
